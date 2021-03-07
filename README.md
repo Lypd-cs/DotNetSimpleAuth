@@ -2,7 +2,7 @@
 Easy-to-use .NET authentication library with PHP server-side checks.
 
 # Example
-```
+```C#
 using System;
 using System.Security.Principal;
 
