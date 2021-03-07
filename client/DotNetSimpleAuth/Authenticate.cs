@@ -13,11 +13,7 @@ namespace DotNetSimpleAuth
 
         public static bool isAuthenticated(string php_link, string pattern)
         {
-            if(new WebClient().DownloadString($"{php_link}?pattern={pattern}").Contains(CreateMD5(Salt + pattern)))
-            {
-                return true;
-            }
-            return false;
+            return new WebClient().DownloadString($"{php_link}?pattern={pattern}").Contains(CreateMD5(Salt + pattern)); 
         }
 
         public static string CreateMD5(string input)
