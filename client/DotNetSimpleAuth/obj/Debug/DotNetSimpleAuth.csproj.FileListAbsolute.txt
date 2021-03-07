@@ -1,0 +1,5 @@
+C:\Users\Megaport\source\repos\DotNetSimpleAuth\DotNetSimpleAuth\bin\Debug\DotNetSimpleAuth.dll
+C:\Users\Megaport\source\repos\DotNetSimpleAuth\DotNetSimpleAuth\bin\Debug\DotNetSimpleAuth.pdb
+C:\Users\Megaport\source\repos\DotNetSimpleAuth\DotNetSimpleAuth\obj\Debug\DotNetSimpleAuth.csprojAssemblyReference.cache
+C:\Users\Megaport\source\repos\DotNetSimpleAuth\DotNetSimpleAuth\obj\Debug\DotNetSimpleAuth.dll
+C:\Users\Megaport\source\repos\DotNetSimpleAuth\DotNetSimpleAuth\obj\Debug\DotNetSimpleAuth.pdb
