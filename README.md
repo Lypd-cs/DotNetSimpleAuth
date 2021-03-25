@@ -14,7 +14,7 @@ namespace Example
         {
             string whitelist_id = WindowsIdentity.GetCurrent().User.Value;
 
-            if (DotNetSimpleAuth.Authenticate.isAuthenticated("https://ataxyle.com/lypd/github_tests/DNSA.php", whitelist_id))
+            if (DotNetSimpleAuth.Authenticate.isAuthenticated("https://url.com//DNSA.php", whitelist_id))
             {
                 Console.WriteLine("Authenticated.");
             }
